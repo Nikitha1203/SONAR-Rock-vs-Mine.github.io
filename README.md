@@ -24,30 +24,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Usage
 To use this project, you will need to follow these steps:
 
-Clone this repository to your local machine.
-
-bash
-Copy code
-git clone https://github.com/yourusername/sonar-rock-vs-mine-prediction.git
-Navigate to the project directory.
-
-bash
-Copy code
-cd sonar-rock-vs-mine-prediction
-Run the following command to train the machine learning model:
-
-Copy code
-python train.py
-This will load the dataset, preprocess the data, train the model, and save the model to a file.
-
-Once the model is trained, run the following command to make predictions on a new dataset:
-
-Copy code
-python predict.py
-You will be prompted to enter the path to the new dataset file. The file should be a CSV file with the same format as the training data.
-
-The predicted output will be saved to a new file in the output directory.
-
 Dataset
 The dataset used in this project is the "Connectionist Bench (Sonar, Mines vs. Rocks)" dataset from the UCI Machine Learning Repository. The dataset contains 208 observations, each with 60 numeric attributes. The target variable is a binary classification of whether the object is a rock or a mine.
 
