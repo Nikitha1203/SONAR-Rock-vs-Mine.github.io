@@ -28,12 +28,16 @@ Model Development:
 a. Describe the machine learning or deep learning models used for the classification task.
 b. Explain the rationale behind choosing a particular model or ensemble of models.
 c. Discuss any modifications or improvements made to the chosen models to address specific challenges or requirements.
+![image](https://github.com/Nikitha1203/SONAR-Rock-vs-Mine.github.io/assets/109364397/86fa9ba2-a9c8-46a9-b4f0-9bf251d6f4d9)
+
 
 Model Training and Evaluation:
 a. Explain how the dataset was split into training, validation, and testing sets.
 b. Discuss the training process, including hyperparameter tuning and cross-validation techniques.
 c. Present the evaluation metrics used to assess the model's performance, such as accuracy, precision, recall, and F1 score.
 d. Showcase the achieved results and compare them with existing approaches or benchmarks.
+![image](https://github.com/Nikitha1203/SONAR-Rock-vs-Mine.github.io/assets/109364397/5d43e4e1-7c5a-41ff-b3b1-e399d291170d)
+
 
 
 Visualization and Interpretation:
